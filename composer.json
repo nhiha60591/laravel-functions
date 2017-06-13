@@ -17,5 +17,6 @@
         "files": [
             "src/helpers.php"
         ]
-    }
+    },
+    "prefer-stable": true
 }
