@@ -1,1 +1,1 @@
-# laravel-functions
+# Laravel Functions
