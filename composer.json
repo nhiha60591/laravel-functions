@@ -18,4 +18,5 @@
             "src/helpers.php"
         ]
     },
+    "minimum-stability": "stable",
 }
