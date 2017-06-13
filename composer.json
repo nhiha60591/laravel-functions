@@ -1,6 +1,5 @@
 {
-    "name": "nhiha60591/laravelfunctions",
-    "description": "Common functions for laravel",
+    "name": "huuhien/laravelfunctions",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,6 +8,7 @@
             "email": "admin@thinkbest4you.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.4",
         "laravel/framework": "^5.0"
@@ -17,6 +17,5 @@
         "files": [
             "src/helpers.php"
         ]
-    },
-    "minimum-stability": "stable",
+    }
 }
